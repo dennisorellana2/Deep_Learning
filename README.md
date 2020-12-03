@@ -17,6 +17,9 @@ I developed two convolutional neural networks  models:
 
 ## Model Performance
 * The accuracy result for model one is 71.67%.
+
+![](Evaluate_the_Model_1.png)
+
 * The accuracy result for model two is 68.89%. 
-![](images/fkdbkdbfk)
-![](image/fdofdof)
+
+![](Evaluate_the_Model_2.png)
