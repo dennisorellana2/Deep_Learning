@@ -23,3 +23,7 @@ I developed two convolutional neural networks  models:
 * The accuracy result for model two is 68.89%. 
 
 ![](Evaluate_the_Model_2.png)
+
+## Overall 
+
+In conclusion, the best convolutional neural networks model between the two is model one based on the 71.67% accuracy. 
