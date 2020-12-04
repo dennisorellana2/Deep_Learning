@@ -4,7 +4,7 @@ An Academic Assignment on Deep Learning.
 
 ## Code and Resources Used
 
-Python Version: 3.8
+Python Version: 3.7
 Packages: tensorflow, matplotlib
 
 CIFAR-10 dataset:https://www.cs.toronto.edu/~kriz/cifar.html
