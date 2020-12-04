@@ -4,11 +4,12 @@ An Academic Assignment on Deep Learning.
 
 ## Code and Resources Used
 
-Python Version: 3.7
+Python Version: 3.7 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 Packages: tensorflow, matplotlib
 
 CIFAR-10 dataset:https://www.cs.toronto.edu/~kriz/cifar.html
 Colab:https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb
+<img align="left" alt="CoLab" width="26px" src="https://avatars1.githubusercontent.com/u/38081706?s=60&u=963d11e5a1e77618d6baab30d32d40cb17e4064d&v=4" />
 
 ## Model Building 
 I developed two convolutional neural networks  models:
